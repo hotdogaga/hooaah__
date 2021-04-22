@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4" height="20" viewBox="0 0 4 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b2afaf;
+      }
+    </style>
+  </defs>
+  <g id="icon_더보기" transform="translate(-2092.278 -10783) rotate(90)">
+    <circle id="타원_241" data-name="타원 241" class="cls-1" cx="2" cy="2" r="2" transform="translate(10783 -2096.278)"/>
+    <circle id="타원_318" data-name="타원 318" class="cls-1" cx="2" cy="2" r="2" transform="translate(10799 -2096.278)"/>
+    <circle id="타원_319" data-name="타원 319" class="cls-1" cx="2" cy="2" r="2" transform="translate(10791 -2096.278)"/>
+  </g>
+</svg>

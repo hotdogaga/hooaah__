@@ -1,0 +1,15 @@
+<svg id="icon_arrow_left_24_main" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #60a070;
+      }
+    </style>
+  </defs>
+  <rect id="_24t" data-name="24t" class="cls-1" width="24" height="24"/>
+  <path id="icon_arrow_left_" class="cls-2" d="M12,4.137l9.075,9.082a1.708,1.708,0,0,0,2.422,0,1.73,1.73,0,0,0,0-2.429L13.219.5A1.712,1.712,0,0,0,10.854.45L.5,10.782a1.715,1.715,0,1,0,2.422,2.429Z" transform="translate(5 24) rotate(-90)"/>
+</svg>

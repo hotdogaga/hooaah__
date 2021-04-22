@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #60a070;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_arrow" transform="translate(0 15) rotate(-90)">
+    <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" class="cls-1" d="M5.95,2.05l4.5,4.5a.846.846,0,0,0,1.2,0,.857.857,0,0,0,0-1.2l-5.1-5.1A.849.849,0,0,0,5.38.223L.248,5.344a.85.85,0,0,0,1.2,1.2Z" transform="translate(4.407 13.503) rotate(-90)"/>
+    <rect id="사각형_1243" data-name="사각형 1243" class="cls-2" width="15" height="15" transform="translate(0 15) rotate(-90)"/>
+  </g>
+</svg>

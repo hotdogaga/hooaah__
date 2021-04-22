@@ -1,0 +1,15 @@
+<svg id="icon_dm_25" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #b2afaf;
+      }
+    </style>
+  </defs>
+  <rect id="사각형_1885" data-name="사각형 1885" class="cls-1" width="25" height="25"/>
+  <path id="icon_dm" class="cls-2" d="M21.385.143.562,12.153a1.078,1.078,0,0,0,.1,1.94l4.776,2L18.344,4.724a.269.269,0,0,1,.386.373L7.907,18.279v3.615a1.078,1.078,0,0,0,1.909.71l2.853-3.472,5.6,2.344a1.081,1.081,0,0,0,1.483-.817l3.235-19.4A1.078,1.078,0,0,0,21.385.143Z" transform="translate(0.999 1.002)"/>
+</svg>
